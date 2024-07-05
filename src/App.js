@@ -5,7 +5,7 @@ import Spinner from "./components/Spinner" ;
 import {filterData , apiUrl} from "./data";
 import {useEffect} from "react";
 import {useState} from "react";
-import {toast} from "react";
+import {toast} from "react-toastify";
 import Cards from "./components/Cards";
 // import Card from "./components/Card";
 
